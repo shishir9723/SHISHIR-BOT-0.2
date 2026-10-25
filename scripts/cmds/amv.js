@@ -59,7 +59,7 @@ Please wait...`
 🔎 Search: ${data.keyword}
 ━━━━━━━━━━━━━━
 ✨ Enjoy your AMV!
-👑 Author: Anik Islam Sadik
+👑 Author: Ahmed’s Shishir 
 ╰━━━━━━━━━━━━━━╯`,
           attachment: await global.utils.getStreamFromURL(info.download)
         },
