@@ -72,7 +72,7 @@ module.exports = {
       const radius = 210;
 
       const centerData = {
-        value: "Anik Islam Sadik",
+        value: "Ahmed SHISHIR ",
         radius: 100,
         hasLabel: false
       };
@@ -120,7 +120,7 @@ module.exports = {
         ctx.font = "bold 28px Arial";
         ctx.textAlign = "left";
         ctx.textBaseline = "alphabetic";
-        ctx.fillText("SATURO BOT V2", 30, 40);
+        ctx.fillText("SHISHIR BOT 0.2", 30, 40);
 
         ctx.font = "20px Arial";
         ctx.textAlign = "right";
