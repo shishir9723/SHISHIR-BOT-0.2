@@ -22,7 +22,7 @@ function getHostingName() {
 
 module.exports = {
   config: {
-    name: "cpanel",
+    name: "cpanel6",
     version: "4.0",
     author: "Anik Islam Sadik",
     category: "info",
