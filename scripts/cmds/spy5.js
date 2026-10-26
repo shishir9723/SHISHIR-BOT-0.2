@@ -1,6 +1,6 @@
 module.exports = {
   config: {
-    name: "spy",
+    name: "spy5",
     version: "2.0",
     role: 0,
     author: "Anik Islam Sadik",
@@ -123,7 +123,7 @@ module.exports = {
 ┃ 🏆 𝐑𝐚𝐧𝐤: #${rank}/${allUser.length || "?"}
 ┃ 💵 𝐌𝐨𝐧𝐞𝐲 𝐑𝐚𝐧𝐤: #${moneyRank}/${allUser.length || "?"}
 ┣━〔 ✦ 𝐆𝐑𝐎𝐔𝐏 ✦ 〕━⬣
-┃ 👑 𝐀𝐝𝐦𝐢𝐧 𝐡𝐞𝐫𝐞: ${isAdmin}
+┃ 👑 𝐀𝐝𝐦𝐢𝐧 𝐡𝐞𝐫𝐞:shishir {isAdmin}
 ╰━━━━━━━━━━━━━━━━⬣`;
 
       let attachments = [];
